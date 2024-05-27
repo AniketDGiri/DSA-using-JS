@@ -1,0 +1,25 @@
+{
+  "name": "dsa-using-js",
+  "version": "1.0.0",
+  "description": "\"This repo is used for all code written and practised by me using JS as a language for future references\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketDGiri/DSA-using-JS.git"
+  },
+  "keywords": [
+    "#DSA",
+    "#JS",
+    "#practise",
+    "#FAANG"
+  ],
+  "author": "Aniket D Giri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AniketDGiri/DSA-using-JS/issues"
+  },
+  "homepage": "https://github.com/AniketDGiri/DSA-using-JS#readme"
+}
